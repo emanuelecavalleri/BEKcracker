@@ -13,6 +13,7 @@ Running the `build.sh` script generates an executable inside the `build` directo
 Run BEKcracker typing `./BEKcracker` on command line. To have the best performance two options are available:
 - `-g` : specify <GUID> of your BEK file, with or without separators
 - `-e` : specify <Year Month Day Hour> of encryption following this format: <yyyy mm dd hh> (must be > <2007 01 07 00>)
+  
 For all the options, type `./BEKcracker -h`.
   
 An example:
