@@ -10,7 +10,7 @@ Running the `build.sh` script generates an executable inside the `build` directo
 
 ## BEK attack!
 
-Run BEKcracker typing `./BEKcracker` on command line. To have the best performance two options are available:
+Run BEKcracker typing `./BEKcracker` on command line and save the output on a flash drive USB. To have the best performance two options are available:
 - `-g` : specify GUID of your BEK file, with or without separators
 - `-e` : specify year, month, day and hour of encryption following this format: yyyy mm dd hh (must be > <2007 01 07 00>)
   
