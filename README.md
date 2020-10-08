@@ -16,7 +16,7 @@ Run BEKcracker typing `./BEKcracker` on command line. To have the best performan
 For all the options, type `./BEKcracker -h`.
   
 An example:
-BEKcracker -g 70FE1FBE-B26B-43B8-BF26-B1C552FC8C34 -e 2020 08 30 12
+`./BEKcracker -g 70FE1FBE-B26B-43B8-BF26-B1C552FC8C34 -e 2020 08 30 12`
 
 ## References, credits and contacts
 
